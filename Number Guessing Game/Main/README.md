@@ -40,13 +40,13 @@ java -jar target/number-guessing-game-1.0-SNAPSHOT.jar
 
 2. Choose difficulty:
 
-1. Easy   2. Medium   3. Hard   4. Exit
+3. Easy, Medium, Hard, Exit
 
-3. Select number of rounds
+4. Select number of rounds
 
-4. Guess the number using smart hints
+5. Guess the number using smart hints
 
-5. View results after all rounds
+6. View results after all rounds
 
 Example Session:
 ```commandline
